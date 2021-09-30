@@ -18,7 +18,7 @@ body {
   background-image:url(assets/jazz-dancer_opacity.jpeg);
   background-repeat: no-repeat;
   background-size:cover;
-  background-color: var(--desifit-background);
+  background-color: var(--desifit-main);
   margin: 0;
   font-family: 'Big Shoulders Text';
   padding: .75em;
